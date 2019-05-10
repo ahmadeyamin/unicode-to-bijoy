@@ -5,6 +5,6 @@ This converter will help you to convert your bangla bijoy Ascii text to convert 
 Unicode To Bijoy server side rendering Unicode To Bijoy convertor by PHP .Ready to go project upload on server and reday to production
 
 
-![alt text](https://raw.githubusercontent.com/ahmadeyamin/unicode-to-bijoy/master/img/Screenshot.png) 
+![Screenshot](https://raw.githubusercontent.com/ahmadeyamin/unicode-to-bijoy/master/img/Screenshot.png) 
 
 # upload any folder in your webhosting and ready to use 
